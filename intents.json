@@ -1,0 +1,364 @@
+{
+  "intents": [
+    {
+      "tag": "saudacao",
+      "patterns": [
+        "olá",
+        "oi",
+        "bom dia",
+        "boa tarde",
+        "boa noite",
+        "olá tudo bem",
+        "oi tudo bem",
+        "como vai",
+        "saudações",
+        "olá chatbot",
+        "oi assistente",
+        "Bom dia",
+        "esta calmo"
+      ],
+      "responses": [
+        "Olá! Como posso ajudar-te hoje? 😊",
+        "Oi! Estou aqui para ajudar com informações sobre a UNIC.",
+        "Olá!Bem-vindo à Universidade Internacional do Cuanza. Em que posso ajudar?",
+        "Bem-vindo! Em que posso ajudar?",
+        "Olá , em que posso ajudar voce relativamente a Universidade Internacional do Cuanza?  "
+      ]
+    },
+    {
+      "tag": "despedida",
+      "patterns": [
+        "tchau",
+        "adeus",
+        "até logo",
+        "até mais",
+        "falou",
+        "até breve",
+        "vou-me"
+      ],
+      "responses": [
+        "Até breve! 👋",
+        "Adeus! Volta sempre que precisares.",
+        "Foi um prazer ajudar-te!",
+        "Até breve! 👋 , desejamos sucesso nos seus estudos na Universidade Internacional do Cuanza."
+      ]
+    },
+    {
+      "tag": "agradecimento",
+      "patterns": [
+        "obrigado",
+        "muito obrigado",
+        "valeu",
+        "agradeço",
+        "obrigado pela ajuda",
+        "gratidão",
+        "obrigada",
+        "muito obrigado pela ajuda",
+        "muito obrigado pelo suporte dado",
+        "obrigado por ajudar"
+      ],
+      "responses": [
+        "Disponha! 😊",
+        "Fico feliz em ajudar!",
+        "Sempre à disposição.",
+        "obrigado por escolher a UNIC para sua jornada acadêmica!",
+        "Obrigado pelo contacto,volte sempre que precisares."
+      ]
+    },
+    {
+      "tag": "localizacao",
+      "patterns": [
+        "onde fica a unic",
+        "localização da universidade",
+        "como chegar à unic",
+        "onde está a universidade",
+        "como chego lá",
+        "onde posso localizar a universidade",
+        "quero ir a unic",
+        "onde fica a universidade",
+        "como posso chegar",
+        "como posso chegar a unic",
+        "onde está localizada a unic",
+        "como posso encontrar a universidade",
+        "onde esta localizada a unic",
+        "onde encontro a universidade",
+        "muito bem, onde posso localizar a universidade",
+        "como chego a unic",
+        "qual é a localização da unic"
+      ],
+      "responses": [
+        "A UNIC está localizada na Estrada Nacional 250, junto ao Hospital Strangway, Cuito/Bié, Angola.",
+        "Estamos localizados na Estrada Nacional 250, próximo ao Hospital Strangway, Cuito/Bié, Angola.",
+        "A Universidade Internacional do Cuanza (UNIC) está situada em Angola, na Provincia do Bié , municipio de Cuito."
+      ]
+    },
+    {
+      "tag": "contactos",
+      "patterns": [
+        "contactos da unic",
+        "telefone da universidade",
+        "email da universidade",
+        "como contactar a unic",
+        "preciso dos contactos",
+        "email da unic",
+        "contactos disponiveis",
+        "qual é o contacto da secretaria",
+        "contacto telefónico da secretaria",
+        "contacto telefónico da Unic",
+        "endereço da unic",
+        "contatos da unic"
+      ],
+      "responses": [
+        "Podes contactar a UNIC pelo telefone +244 932 844 895 ou pelo email info@unic.co.ao"
+      ]
+    },
+    {
+      "tag": "informacoes_gerais",
+      "patterns": [
+        "informações sobre a unic",
+        "o que é a unic",
+        "fale-me sobre a unic",
+        "diga-me sobre a universidade",
+        "o que é a universidade internacional do cuanza",
+        "informaçoes gerais sobre a unic",
+        "quero saber sobre a unic",
+        "diga-me sobre a unic",
+        "fale-me sobre a universidade",
+        "informações gerais sobre a unic"
+      ],
+      "responses": [
+        "A Universidade Internacional do Cuanza (UNIC) é uma instituição de ensino superior localizada em Angola, oferecendo diversos cursos nas áreas de Engenharias, Ciências da Saúde e Ciências Sociais e Humanas.",
+        "A Universidade Internacional do Cuanza é uma instituição de ensino superior com formação presencial de qualidade e foco em competencias acaedémicas e profissionais.Oferecendo cursos de graduação em diversas áreas do conhecimento e promove dupla tilulação com universidades internacionais parceiras."
+      ]
+    },
+    {
+      "tag": "processo_inscricao",
+      "patterns": [
+        "como me inscrever",
+        "quero me inscrever",
+        "processo de inscrição",
+        "como fazer matrícula",
+        "informações sobre inscrição",
+        "onde faço a matrícula",
+        "onde posso fazer inscrição",
+        "como posso me inscrever",
+        "onde posso me inscrever",
+        "como fazer matricula",
+        "onde faço a matricula",
+        "requisitos para entrar na unic",
+        "como me inscrever nos cursos da unic"
+      ],
+      "responses": [
+        "As inscrições podem ser feitas pelo portal académico ou presencialmente na secretaria da UNIC.",
+        "para te inscrever, precisas do certificado do ensino médio, documento de identificação e comprovativo de pagamento da taxa de inscrição."
+      ]
+    },
+    {
+      "tag": "docentes",
+      "patterns": [
+        "quem são os professores",
+        "corpo docente",
+        "quem ensina na unic",
+        "informações sobre os docentes",
+        "quero saber sobre os professores",
+        "quem são os docentes da unic",
+        "sobre os docentes da universidade",
+        "sobre os professores",
+        "informações sobre o corpo docente da universidade",
+        "sobre o corpo docente da universidade",
+        "professores da universidade",
+        "quais são os professores da UNIC"
+      ],
+      "responses": [
+        "O corpo docente da UNIC é composto por profissionais qualificados e experientes, dedicados ao ensino e à pesquisa académica.Composto por mestres, doutores e Engenheiros Nacionais e Internacionais com certificações em diversas áreas do conhecimento e reconhecimento internacional."
+      ]
+    },
+    {
+      "tag": "cursos_geral",
+      "patterns": [
+        "quais cursos existem",
+        "cursos disponíveis",
+        "que cursos a unic oferece",
+        "lista de cursos",
+        "programas académicos",
+        "quais são os cursos disponiveis na universidade",
+        "quais são os cursos disponiveis",
+        "cursos disponiveis",
+        "programas acadêmicos"
+      ],
+      "responses": [
+        "A UNIC oferece cursos nas áreas de Engenharias, Ciências da Saúde e Ciências Sociais e Humanas. Podes perguntar por uma faculdade específica."
+      ]
+    },
+    {
+      "tag": "cursos_engenharias",
+      "patterns": [
+        "cursos de engenharia",
+        "engenharia informática",
+        "faculdade de engenharia",
+        "engenharias da unic",
+        "engenharia civil existe",
+        "cursos da faculdade de engenharias",
+        "faculdade de engenharias",
+        "cursos disponiveis na faculdade de engenharias",
+        "quais são os cursos da faculdade de engenharias"
+      ],
+      "responses": [
+        "Na Faculdade de Engenharias, a UNIC oferece: Engenharia Civil, Engenharia Informática, Engenharia Elétrica, Engenharia de Telecomunicações, Engenharia Industrial, Engenharia Química e Engenharia de Minas."
+      ]
+    },
+    {
+      "tag": "cursos_saude",
+      "patterns": [
+        "cursos da saúde",
+        "faculdade de saúde",
+        "enfermagem existe",
+        "nutrição existe",
+        "licenciaturas da saúde",
+        "faculdade de Saude",
+        "faculdade saúde",
+        "emfermagem existe",
+        "cursos da faculdade de saude",
+        "cursos disponiveis na faculdade de saude",
+        "cursos da faculdade de saúde",
+        "faculdade de saude",
+        "nutição existe"
+      ],
+      "responses": [
+        "Na Faculdade de Ciências da Saúde, a UNIC oferece os cursos de Enfermagem Geral e Nutrição e Dietética."
+      ]
+    },
+    {
+      "tag": "cursos_sociais_humanas",
+      "patterns": [
+        "cursos de direito",
+        "psicologia existe",
+        "jornalismo existe",
+        "relações internacionais",
+        "ciências sociais",
+        "faculdade de Sociais",
+        "cursos da faculdade de ciencias sociais e humanas",
+        "quais são os cursos disponiveis na faculdade de Ciencias Sociais e humanas",
+        "faculdade de ciencias Sociais e humanas",
+        "quais são os cursos disponiveis na faculdade de ciencias sociasi e humanas"
+      ],
+      "responses": [
+        "Na Faculdade de Ciências Sociais e Humanas, a UNIC oferece os cursos de Direito, Psicologia Educacional, Jornalismo e Relações Internacionais."
+      ]
+    },
+    {
+      "tag": "Dupla_titulacao",
+      "patterns": [
+        "o que é dupla titulação",
+        "como funciona a dupla titulação",
+        "quais universidades parceiras",
+        "universidades internacionais",
+        "informações sobre a dupla titulação"
+      ],
+      "responses": [
+        "A UNIC oferece a possibilidade de dupla titulação Angola-Espanha em parceria com universidades espanholas reconhecidas, permitindo aos estudantes obterem diplomas válidos em ambos os países."
+      ]
+    },
+    {
+      "tag": "propinas",
+      "patterns": [
+        "quanto custa a propina",
+        "valor da propina",
+        "mensalidade",
+        "quanto pago pelo curso",
+        "preço do curso",
+        "quanto custa a propina?",
+        "qual é o valor da mensalidade",
+        "qual é o valor da propina na UNIC"
+      ],
+      "responses": [
+        "As propinas variam conforme a faculdade. Engenharias e Saúde: 54.200 Kz/mês. Ciências Sociais e Humanas: 46.300 Kz/mês."
+      ]
+    },
+    {
+      "tag": "portal",
+      "patterns": [
+        "portal académico",
+        "como acessar o portal",
+        "login no portal",
+        "sistema online da unic",
+        "como posso aceder ao portal acadêmico",
+        "como acessar  o portal académico",
+        "Como acessar o Panal Unic"
+      ],
+      "responses": [
+        "O portal académico pode ser acessado através do site oficial da UNIC com as tuas credenciais."
+      ]
+    },
+    {
+      "tag": "infraestrutura",
+      "patterns": [
+        "infraestrutura da unic",
+        "edifícios da universidade",
+        "instalações da unic",
+        "residencia estudantil",
+        "sobre as residências universitárias",
+        "gostaria de conhecer a infraestrutura da universidade"
+      ],
+      "responses": [
+        "A UNIC possui infraestrutura moderna com edifícios equipados, laboratórios,e espaços para atividades extracurriculares.",
+        "A universidade possui um campus equipado com salas de aula modernas, laboratórios, bibliotecas e dispõe de residências estudantis para acomodar os estudantes e Professores."
+      ]
+    },
+    {
+      "tag": "eventos",
+      "patterns": [
+        "calendário académico",
+        "quando começam as aulas",
+        "datas importantes",
+        "eventos da universidade",
+        "quando é que iniciam as aulas",
+        "informações sobre o calendário académico"
+      ],
+      "responses": [
+        "Consulta o calendário académico no site oficial da UNIC para as datas atualizadas."
+      ]
+    },
+    {
+      "tag": "biblioteca",
+      "patterns": [
+        "biblioteca da unic",
+        "como acessar a biblioteca",
+        "livros disponíveis",
+        "horário da biblioteca",
+        "Biblioteca da unic",
+        "sobre Biblioteca Universitária"
+      ],
+      "responses": [
+        "A biblioteca da UNIC está disponível presencialmente e online. Consulta o site para mais informações."
+      ]
+    },
+    {
+      "tag": "regras",
+      "patterns": [
+        "regras da universidade",
+        "regulamento académico",
+        "normas da unic",
+        "quail é o regulamento da universidade",
+        "sobre regulamentos da universidade"
+      ],
+      "responses": [
+        "As regras e regulamentos académicos estão disponíveis no site oficial da UNIC."
+      ]
+    },
+    {
+      "tag": "suporte_tecnico",
+      "patterns": [
+        "não consigo acessar o portal",
+        "problema de login",
+        "senha não funciona",
+        "erro no portal",
+        "minhas credenciais de acesso ao portal não funcionam",
+        "oi estou com problema de login"
+      ],
+      "responses": [
+        "Para suporte técnico, contacta suporte@universidade.ao ou +244 944 935 300."
+      ]
+    }
+  ]
+}
